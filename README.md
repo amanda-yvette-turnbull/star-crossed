@@ -1,6 +1,6 @@
 # star-crossed
 The dating app written in and by the stars
-Link to the backend can be found [here]([url](https://github.com/amanda-yvette-turnbull/star-crossed-api))
+Link to the backend can be found [here](https://github.com/amanda-yvette-turnbull/star-crossed-api)
 
 ## Database info:
 ### Users 
